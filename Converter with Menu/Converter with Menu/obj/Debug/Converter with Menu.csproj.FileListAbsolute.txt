@@ -1,0 +1,18 @@
+C:\Users\Vaidas\Dropbox\college 2016-2017\Converter with Menu\Converter with Menu\bin\Debug\Converter with Menu.exe.config
+C:\Users\vaidas\Dropbox\college 2016-2017\Converter with Menu\Converter with Menu\obj\Debug\Converter with Menu.csprojResolveAssemblyReference.cache
+C:\Users\vaidas\Dropbox\college 2016-2017\Converter with Menu\Converter with Menu\obj\Debug\Converter_with_Menu.Converter.resources
+C:\Users\vaidas\Dropbox\college 2016-2017\Converter with Menu\Converter with Menu\obj\Debug\Converter_with_Menu.Properties.Resources.resources
+C:\Users\vaidas\Dropbox\college 2016-2017\Converter with Menu\Converter with Menu\obj\Debug\Converter with Menu.csproj.GenerateResource.Cache
+C:\Users\vaidas\Dropbox\college 2016-2017\Converter with Menu\Converter with Menu\bin\Debug\Converter with Menu.exe
+C:\Users\vaidas\Dropbox\college 2016-2017\Converter with Menu\Converter with Menu\bin\Debug\Converter with Menu.pdb
+C:\Users\vaidas\Dropbox\college 2016-2017\Converter with Menu\Converter with Menu\obj\Debug\Converter with Menu.exe
+C:\Users\vaidas\Dropbox\college 2016-2017\Converter with Menu\Converter with Menu\obj\Debug\Converter with Menu.pdb
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Converter with Menu\Converter with Menu\bin\Debug\Converter with Menu.exe.config
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Converter with Menu\Converter with Menu\obj\Debug\Converter with Menu.exe
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Converter with Menu\Converter with Menu\obj\Debug\Converter with Menu.pdb
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Converter with Menu\Converter with Menu\bin\Debug\Converter with Menu.exe
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Converter with Menu\Converter with Menu\bin\Debug\Converter with Menu.pdb
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Converter with Menu\Converter with Menu\obj\Debug\Converter with Menu.csprojResolveAssemblyReference.cache
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Converter with Menu\Converter with Menu\obj\Debug\Converter_with_Menu.Converter.resources
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Converter with Menu\Converter with Menu\obj\Debug\Converter_with_Menu.Properties.Resources.resources
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Converter with Menu\Converter with Menu\obj\Debug\Converter with Menu.csproj.GenerateResource.Cache

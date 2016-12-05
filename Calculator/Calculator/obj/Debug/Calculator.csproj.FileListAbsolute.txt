@@ -1,0 +1,27 @@
+c:\users\vaidas\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\vaidas\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\vaidas\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\vaidas\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\vaidas\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\vaidas\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\vaidas\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\vaidas\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\vaidas\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Vaidas\Dropbox\college 2016-2017\Visual Studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Vaidas\Dropbox\college 2016-2017\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Vaidas\Dropbox\college 2016-2017\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Vaidas\Dropbox\college 2016-2017\Visual Studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Vaidas\Dropbox\college 2016-2017\Visual Studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Vaidas\Dropbox\college 2016-2017\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Vaidas\Dropbox\college 2016-2017\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Vaidas\Dropbox\college 2016-2017\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Vaidas\Dropbox\college 2016-2017\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\vaidas\Dropbox\college 2016-2017\Csharp\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
